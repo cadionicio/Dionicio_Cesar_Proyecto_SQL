@@ -16,10 +16,6 @@ Este proyecto consiste en la creación de una base de datos para la plataforma e
 - Comisiones (ciclos)
 - Opiniones y feedback de los estudiantes
 
-## Diagrama Entidad-Relación (ER)
-
-![Diagrama ER](file-rQ4GvSiUBvB6mwtwOFrYE6a3)
-
 ## Estructura de las tablas
 
 ### 1. Métodos de Pago (Metodos_Pago)
